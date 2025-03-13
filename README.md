@@ -77,6 +77,7 @@ Below are Grad-CAM visualizations for sample images:
 | Original Image | Grad-CAM Heatmap | Overlayed Image |
 |---------------|-----------------|-----------------|
 | ![Original](sample_original.jpg) | ![Heatmap](sample_heatmap.jpg) | ![Overlayed](sample_overlay.jpg) |
+Please find image in repository, If Getting Error.
 
 ## Acknowledgments
 - UC Merced Land Use Dataset
